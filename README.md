@@ -42,25 +42,25 @@ The project includes the following analyses:
 ## Visualizations
 
 ### 1. Customer Churn Distribution
-![Customer Churn Distribution](Customer_Churn_Visualizations/customer_churn_distribution.png)
+![Customer Churn Distribution]![Customer Churn Distribution](customer_churn_distribution.png)
 
 ### 2. Contract-wise Churn
-![Contract-wise Churn](Customer_Churn_Visualizations/contract_wise_churn.png)
+![Contract-wise Churn]![Contract-wise Churn](contract_wise_churn.png)
 
 ### 3. Customer Tenure Distribution
-![Customer Tenure Distribution](Customer_Churn_Visualizations/customer_tenure_distribution.png)
+![Customer Tenure Distribution]![Customer Tenure Distribution](customer_tenure_distribution.png)
 
 ### 4. Tenure vs Churn
-![Tenure vs Churn](Customer_Churn_Visualizations/tenure_vs_churn.png)
+![Tenure vs Churn]![Tenure vs Churn](tenure_vs_churn.png)
 
 ### 5. Monthly Charges Distribution
-![Monthly Charges Distribution](Customer_Churn_Visualizations/monthly_charges_distribution.png)
+![Monthly Charges Distribution]![Monthly Charges Distribution](monthly_charges_distribution.png)
 
 ### 6. Monthly Charges vs Churn
-![Monthly Charges vs Churn](Customer_Churn_Visualizations/monthly_charges_vs_churn.png)
+![Monthly Charges vs Churn]![Monthly Charges vs Churn](monthly_charges_vs_churn.png)
 
 ### 7. Correlation Heatmap
-![Correlation Heatmap](Customer_Churn_Visualizations/correlation_heatmap.png)
+![Correlation Heatmap]![Correlation Heatmap](correlation_heatmap.png)
 
 ## Project Files
 - `Task_1_Customer_Churn_Analysis.ipynb` – Complete Python notebook.
